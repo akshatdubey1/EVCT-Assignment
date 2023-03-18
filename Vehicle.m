@@ -8,6 +8,8 @@ classdef Vehicle
         gear_ratio
         delta
         efficiency
+        aero_efficiency
+        AA
     end
 end
 
